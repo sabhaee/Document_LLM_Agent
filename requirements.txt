@@ -1,0 +1,10 @@
+openai
+langchain
+tiktoken
+unstructured
+pypdf
+python-dotenv
+streamlit
+unstructured_inference
+pytesseract
+tesseract
