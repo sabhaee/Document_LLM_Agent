@@ -38,7 +38,7 @@ Follow these steps to run the Sentiment Analysis Demo:
 
 ## Sample app output
 
-![Screenshot](Screenshot.png)
+![Screenshot](https://github.com/sabhaee/Document_LLM_Agent/blob/main/sample/Screenshot.png)
 
 
 ## Customization
