@@ -8,7 +8,7 @@ Follow these steps to run the Sentiment Analysis Demo:
 
 1. Clone this repository to your local machine:
    ```shell
-   git clone https://github.com/sabhaee/__.git
+   git clone https://github.com/sabhaee/Document_LLM_Agent.git
    ```
 
 2. Creat a virtual envoronment and install required dependencies 
